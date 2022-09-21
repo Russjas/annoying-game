@@ -124,6 +124,8 @@ def move():
     xshift, yshift = 0, 0
     if user_input.lower() == 'quit':
         root1.destroy()
+    elif user_input.lower() == 'start':
+        room_finder()
     else:
         if (coord['x'], coord['y']) == (-2, -2):
             startroom()
