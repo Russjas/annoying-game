@@ -10,3 +10,5 @@ This is the adventure game re-written to work in a tkinter GUI
 
 An_Annoying_Game.exe
 This is the tkinter version as a .exe converted using auto-py-to-exe
+
+An_Annoying_Game_OOP_v2 is a version written with an oop mindset after some useful feedback on global variables and using classes
