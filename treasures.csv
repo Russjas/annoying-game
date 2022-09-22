@@ -1,0 +1,21 @@
+treasure,x,y,req
+bottle of perfume,7,0,diamond
+brick,16,5,remove
+dagger,2,0,tome
+deck playing cards,10,3,bottle of perfume
+diamond,20,0,scissors
+hermits hat,12,8,deck of playing cards
+key,1,1,dagger
+ladder,0,4,ruby
+leaflet on compulsive collecting,3,8,
+potato,15,8,remove
+pouch of magic dust,0,8,ladder
+ruby,1,0,key
+sack,18,8,sword
+sausage,14,0,hermits hat
+scissors,4,5,pouch of magic dust
+shiny hat,0,0,sack
+shiny rock,6,8,remove
+sword,19,5,brick
+tome,2,1,remove
+walnut,9,8,remove

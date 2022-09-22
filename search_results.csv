@@ -1,0 +1,35 @@
+treasure,req_found,prompt,req
+bottle of perfume,TRUE,There is a bottle of perfume in a glass case. You use the diamond to cut the glass and get it,diamond
+bottle of perfume,FALSE,There is a bottle of perfume in a glass case. If only you could get it!,diamond
+dagger,TRUE,There is a cupboard high on the wall. You can just reach by standing on the tome!,tome
+dagger,FALSE,There is a cupboard high on the wall. You cant reach!,tome
+deck playing cards,TRUE,A gnome appears and offers to play cards. You bet your perfume bottle and win his cards! Shame you werent playing for money.,bottle of perfume
+deck playing cards,FALSE,A gnome appears and offers to play cards. Shame you dont have a stake.,bottle of perfume
+diamond,TRUE,You find a diamond in a vacuum packed plastic packet! The only time scissors are better than a knife!,scissors
+diamond,FALSE,You find a diamond in a vacuum packed plastic packet! Those things are a nightmare to open.,scissors
+hermits hat,TRUE,You meet a hermit with a beautiful fur hat. You win it in a game of cards!,deck of playing cards
+hermits hat,FALSE,You meet a hermit with a beautiful fur hat. He laughs in your face when you ask for it,deck of playing cards
+key,TRUE,You pry off a crooked wall panel with the dagger. Behind it is a key!,dagger
+key,FALSE,There is something behind a crooked wall panel but you cant get it out!,dagger
+ladder,TRUE,You find a ladder. Bound to come in handy! But you drop your ruby carrying it!,ruby
+ladder,FALSE,You find a ladder. Meh who needs a ladder?,ruby
+ruby,TRUE,You found a locked chest but your key fit!\n,key
+ruby,FALSE,You found a locked chest but you dont have a key!,key
+sack,TRUE,There is a man holding an empty sack. You want it. You threaten him with the sword until he gives it to you,sword
+sack,FALSE,There is a man holding an empty sack. You want it. He wont give it to you,sword
+sausage,TRUE,There is a fierce dog guarding a sausage that you want. Luckily the fur hat smells worse than it looks. The dog happily trades,hermits hat
+sausage,FALSE,There is a fierce dog guarding a sausage that you want. You keep your distance. Why do you want that sausage?!,hermits hat
+scissors,TRUE,There is a cupboard. You throw you magic? dust at it and a hidden drawer is revealed! There are a scissors inside...,pouch of magic dust
+scissors,FALSE,There is a cupboard.Its empty. Or is it?,pouch of magic dust
+pouch of magic dust,TRUE,High high on a hidden shelf is a pouch. Ladder is dead handy!,ladder
+pouch of magic dust,FALSE,High high on a hidden shelf is a pouch. You wish you had a ladder,ladder
+shiny hat,TRUE,A man in a shiny hat wants your empty sack. No brainer,sack
+shiny hat,FALSE,A man in a shiny hat wants an empty sack. Weird,sack
+sword,TRUE,A beautiful sword rests magestically in a class cabinet. You smash the cabinet with a brick and take the sword,brick
+sword,FALSE,A beautiful sword rests magestically in a class cabinet. You wish you had a brick,brick
+shiny rock,None,You found a shiny rock and picked it up! You dont know why.,
+tome,None,There is a bookshelf in the corner.You dont know how you missed it! You select the weightiest tome there,
+walnut,None,You found a walnut and picked it up! You dont know why.,
+leaflet on compulsive collecting,None,You found a leaflet on compulsive collecting and picked it up! You might learn why.,
+potato,None,You found a potato and picked it up! You dont know why.,
+brick,None,You found a brick and picked it up! You dont know why.,
